@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506312271550",
+    "project_id": "medicaljournal-70745",
+    "storage_bucket": "medicaljournal-70745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506312271550:android:3de9bf528d66ce4ae560ef",
+        "android_client_info": {
+          "package_name": "com.softlex.medicaljournal.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506312271550-lf3btgof5ipa46rflo4b407ard27qpkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgKlp1ZQhkbiIqlk-fEJd47XjtuXu3bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506312271550-lf3btgof5ipa46rflo4b407ard27qpkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

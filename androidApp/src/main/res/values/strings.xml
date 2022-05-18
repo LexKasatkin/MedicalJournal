@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_bookmark">Bookmark</string>
+    <string name="navigation_latest">Latest</string>
+    <string name="navigation_search">Search</string>
+    <string name="navigation_login">Login</string>
+    <string name="navigation_bottom">Bottom</string>
+
+</resources>
